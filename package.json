@@ -1,0 +1,23 @@
+{
+  "name": "@toobe/atomic-css",
+  "version": "0.0.1",
+  "description": "Atomic css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass ./src/styles/main.sass ./dist/atomic.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toobeloong/atomic-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toobeloong/atomic-css/issues"
+  },
+  "homepage": "https://github.com/toobeloong/atomic-css#readme",
+  "dependencies": {
+    "sass": "^1.57.0"
+  }
+}
